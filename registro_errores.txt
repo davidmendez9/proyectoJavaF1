@@ -1,0 +1,17 @@
+2024-01-18 18:55:28 - Error 110: El código de patrocinador ya existe.
+2024-01-18 18:56:11 - Error 110: El código de patrocinador ya existe.
+2024-01-18 20:02:16 - Error 109: ha excedido el numero de mundiales permitidos (20)
+2024-01-18 20:06:11 - Error 109: ha excedido el numero de mundiales permitidos (20)
+2024-01-18 20:06:12 - Error 109: ha excedido el numero de mundiales permitidos (20)
+2024-01-18 20:06:36 - Error 104: no existe este usuario en la base de datos
+2024-02-09 15:33:13 - Error 109: ha excedido el numero de mundiales permitidos (20)
+2024-02-09 15:37:19 - Error 110: El código de patrocinador ya existe.
+2024-02-09 15:37:26 - Error 110: El código de patrocinador ya existe.
+2024-02-09 15:53:42 - Error 104: no existe este usuario en la base de datos
+2024-02-09 15:55:11 - Error 110: El código de patrocinador ya existe.
+2024-02-09 15:56:17 - Error 109: ha excedido el numero de mundiales permitidos (20)
+2024-02-09 15:56:33 - Error 109: ha excedido el numero de mundiales permitidos (20)
+2024-02-09 15:58:17 - Error 109: ha excedido el numero de mundiales permitidos (20)
+2024-02-10 19:31:07 - Error 104: no existe este usuario en la base de datos
+2024-02-10 19:32:08 - Error 110: El código de patrocinador ya existe.
+2024-02-10 19:32:34 - Error 109: ha excedido el numero de mundiales permitidos (20)
